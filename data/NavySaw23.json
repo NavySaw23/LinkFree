@@ -1,0 +1,39 @@
+{
+  "name": "Navinya",
+  "type": "Personal",
+  "bio": "I'm Navy",
+
+  "tags": ["DevOps", "OpenSource", "Web Development", "IOT"],
+
+  "socials": [
+    { "icon": "FaTwitter", "url": "https://twitter.com/NavySaw23" },
+    { "icon": "FaGithub", "url": "https://github.com/NavySaw23" },
+    {
+      "icon": "FaLinkedin",
+      "url": "https://www.linkedin.com/in/navinya-sawarkar-247a35249/"
+    }
+  ],
+
+  "links": [
+    {
+      "name": "GitHub: Let's collaborate",
+      "url": "https://github.com/NavySaw23",
+      "icon": "FaGithub"
+    },
+    {
+      "name": "Twitter: Follow me",
+      "url": "https://twitter.com/NavySaw23",
+      "icon": "FaTwitter"
+    },
+    {
+      "name": "LinkedIn: Let's connect",
+      "url": "Your Linkedin Profile URL",
+      "icon": "FaLinkedin"
+    },
+    {
+      "name": "Instagram",
+      "url": "https://www.instagram.com/NavySaw23",
+      "icon": "FaInstagram"
+    }
+  ]
+}
